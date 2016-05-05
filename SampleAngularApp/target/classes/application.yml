@@ -1,0 +1,23 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: validate
+      
+flyway:
+  enabled: true
+
+security:
+  user:
+    name: newt
+    password: global
+  basic:
+    realm: Please provide your authentication details
+    
+ 
+management:
+  port: 8081
+  address: 127.0.0.1
+  context-path: /manage
+  security:
+    enabled: true
+    role: SUPERUSER

@@ -1,0 +1,9 @@
+com\newt\repository\TodoRepository.class
+com\newt\entity\Todo.class
+com\newt\SampleAngularAppApplication.class
+com\newt\controller\SecurityController.class
+com\newt\Configuration.class
+com\newt\controller\BaseController.class
+com\newt\controller\TodoController.class
+com\newt\service\TodoService.class
+com\newt\security\TodoSecurity.class

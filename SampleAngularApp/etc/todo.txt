@@ -1,0 +1,7 @@
+001|Gathering Requirement|23-03-2016
+002|Requirement Analysis|23-03-2016
+003|Designing Architecture|23-03-2016
+004|Coding|23-03-2016
+005|Unit Testing|23-03-2016
+006|Deployment|23-03-2016
+007|Delivery|23-03-2016
