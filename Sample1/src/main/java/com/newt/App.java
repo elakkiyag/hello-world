@@ -1,4 +1,4 @@
-package HelloWorld.Sample1;
+package com.newt;
 
 /**
  * Hello world!
