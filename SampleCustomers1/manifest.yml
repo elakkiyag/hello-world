@@ -1,0 +1,9 @@
+---
+applications:
+- name: SampleCustomer
+  memory: 1024M
+  host: SampleCustomer
+  domain: cfapps.io
+  env:
+    SPRING_PROFILES_ACTIVE: cloud
+  buildpack: java_buildpack
